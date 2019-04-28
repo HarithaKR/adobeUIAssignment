@@ -9,4 +9,5 @@ Note: Add the below property into node_modules/handlebars/package.json
 "browser": "dist/handlebars.js",
 
 open terminal and run 'http-server'
+
 open the page ...serverUrl/dist
